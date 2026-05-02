@@ -16,7 +16,7 @@ profile:
     <p><a href="mailto:dimos.chatzinikolaou@gmail.com">dimos.chatzinikolaou@gmail.com</a></p>
 
 selected_papers: true     # publications listed under selected={true} appear on the home page
-social: true              # Scholar / ORCID / LinkedIn / Scopus links from _data/socials.yml
+social: false              # Scholar / ORCID / LinkedIn / Scopus links from _data/socials.yml
 announcements:
   enabled: false
 news: true
