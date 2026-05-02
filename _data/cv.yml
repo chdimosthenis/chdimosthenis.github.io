@@ -1,189 +1,349 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  name: Dr Dimos Chatzinikolaou
+  label: Adjunct Faculty, School of Business, University of Nicosia
+  email: dimos.chatzinikolaou@gmail.com
+  phone:
+  website: https://chdimosthenis.github.io
+  summary: >
+    Dr Dimos Chatzinikolaou is an Adjunct Faculty member at the AACSB-accredited
+    School of Business of the University of Nicosia and a member of the Knowledge
+    Management, Innovation and Strategy Center (KISC). His research advances
+    evolutionary and systems-oriented macro–meso–micro approaches to international
+    political economy, business ecosystems, entrepreneurship, and sectoral
+    transformation, with particular emphasis on energy. His work has been published
+    in ABS-ranked journals, including *Strategy & Leadership*, *The Journal of
+    Entrepreneurship*, *Journal of the Knowledge Economy*, *Journal of Economic
+    Integration*, and *Journal of Entrepreneurship in Emerging Economies*.
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street:
+    city: Thessaloniki
+    region:
+    postalCode:
+    countryCode: GR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Democritus University of Thrace, Department of Economics
+        location: Komotini, Greece
+        url: https://didaktorika.gr/eadd/handle/10442/58101
+        area: Economics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2018
+        end_date: 2024
+        score: "10/10 (highest distinction; unanimous)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: *The Energy Transition in Europe from the Perspective of International Political Economy, Business Ecosystems, and Entrepreneurship*."
+          - "Main findings published in *Sustainability* (MDPI, Q1; WoS IF 3.3)."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Democritus University of Thrace, Department of Law
+        location: Komotini, Greece
+        area: Southeast Europe Studies (Economics specialisation)
+        studyType: Master's Degree (120 ECTS)
+        start_date: 2016
+        end_date: 2018
+        score: "10/10 (Excellent)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Diploma thesis: *Business Ecosystems and Competitiveness: Structural Problems and Prospects in Eastern Macedonia and Thrace.*"
+          - "Two thesis chapters were published in *Journal of Entrepreneurship, Management and Innovation* (Scopus Q2; WoS) and *Journal of Economics Library* (EconLit)."
+
+      - institution: Democritus University of Thrace
+        location: Komotini, Greece
+        area: International Economic Relations and Development
+        studyType: Bachelor's Degree (240 ECTS)
+        start_date: 2005
+        end_date: 2011
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Nicosia, School of Business (AACSB-accredited)
+        position: Adjunct Faculty
+        location: Nicosia, Cyprus (distance learning)
+        start_date: 2025
+        summary: >
+          Independent teaching across the distance-learning MBA and face-to-face
+          MBA programmes; full distance-learning material developed for several
+          courses.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Distance Learning MBA — Business Economics; Corporate Strategy; Energy & Geopolitics; Globalization and International Business Challenges; Leadership & Innovation; Managing SMEs & Family Businesses; Environmental Impact Assessment in the HCB Industry."
+          - "Face-to-Face MBA — Managing SMEs & Family Businesses (Fall 2025)."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Macedonia, Department of International and European Studies
+        position: Adjunct Faculty
+        location: Thessaloniki, Greece
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - "ΔΕ5020 — Elements of Business Organization and Management (Fall 2025)."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Aegean College Thessaloniki
+        position: Teaching Faculty (MBA)
+        location: Thessaloniki, Greece
+        start_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Operations and Supply Chain Management (Fall 2025)."
+
+      - company: Sole Proprietorship Consulting
+        position: Founder
+        location: Thessaloniki, Greece
+        start_date: 2025
+        summary: >
+          Teaching, translation and interpreting, author services, and business
+          and management consulting.
+
+      - company: Democritus University of Thrace, Department of Economics
+        position: Adjunct Faculty
+        location: Komotini, Greece
+        start_date: 2025
+        end_date: 2025
+        highlights:
+          - "Comparative Economic Systems (Spring 2025)."
+
+      - company: Mediterranean College Thessaloniki (University of Derby)
+        position: Teaching Faculty (accredited lecturer, University of Derby)
+        location: Thessaloniki, Greece
+        start_date: 2022
+        summary: >
+          Independent teaching across BA (Hons) Business Management, BSc (Hons)
+          Shipping Management, and MBA Global programmes.
+        highlights:
+          - "BA (Hons) Business Management — Business Economics; Developing Leadership and Management; Finance and Business Performance; Global Business and Strategy; Operations, Supply Chain and IT; Sustainability and Responsible Management."
+          - "BSc (Hons) Shipping Management — International Trade."
+          - "MBA Global — Career Coaching and Mentoring."
+
+      - company: DELTA360 Institute of Vocational Training
+        position: Teaching Faculty
+        location: Thessaloniki, Greece
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - "Business Administration; Marketing; Marketing Management; Marketing Services; Principles of Economics; Retail, Wholesale and Distribution Marketing; Financial Data and Airport Total Quality Management."
+
+      - company: Stra.Tech.Man Lab, Democritus University of Thrace
+        position: Coordinator of the research team
+        location: Komotini, Greece
+        start_date: 2016
+
+      - company: Knowledge Management, Innovation and Strategy Center (KISC), University of Nicosia
+        position: Member
+        location: Nicosia, Cyprus
+        start_date: 2023
+
+      - company: Retail sector
+        position: Employee
+        start_date: 2017
+        end_date: 2020
+
+      - company: Retail business
+        position: Owner
+        start_date: 2012
+        end_date: 2019
+
+    Editorial Roles:
+      - label: Editor — *Frontiers in Political Science* (Scopus Q1; WoS IF 1.9)
+        details: >
+          Research Topic *World War III? Politics, Perception, and the Future of
+          Global Order* (Apr–Oct 2026).
+      - label: Associate Editor — *Frontiers in Political Science*
+        details: International Studies section (April 2026–Present).
+      - label: International Editorial Board — *Mercados y Negocios* (Universidad de Guadalajara; Scopus Q4)
+        details: 2025–Present.
+      - label: Leading Guest Editor — *Discover Global Society* (Springer; Scopus Q3)
+        details: >
+          Special Issue *Energy Geopolitics in a Transforming Global Order*
+          (Oct 2025 – Sep 2026).
+      - label: Leading Guest Editor — *Sustainability* (MDPI; Scopus Q1; WoS IF 3.3)
+        details: >
+          Special Issue *International Economy, Business Ecosystems, and
+          Entrepreneurship: Implications for Sustainable Energy Development*
+          (Mar 2025 – Nov 2026).
+      - label: Editorial Board Member — *Societies* (MDPI; Scopus Q2; WoS IF 1.7)
+        details: February 2025–Present.
+      - label: Event Committee Member — 1st International Online Conference on Societies *Societal Challenges, Opportunities, and Achievement*
+        details: January 2026.
+      - label: Editorial support — *Societies* Special Issue *New Globalization vs. Anti-Globalization*
+        details: 2023–2024.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Doctoral Dissertation — Unanimously Excellent (10/10)
+        date: 2024-12-12
+        awarder: Seven-Member Examination Committee, Democritus University of Thrace
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iNBZY6crZW9HEKFc2g?e=GZInw3
+        summary: >
+          Awarded the highest distinction on the doctoral dissertation by the
+          examination committee chaired by Assistant Professor Charis Vlados.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Open-access publication waiver (CHF 2,000) — *Smart Cities*
+        date: 2025-04-23
+        awarder: MDPI (Scopus Q1; WoS IF 7.0)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iO5ync4-ae0sKyP9WQ?e=JbZpUx
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Open-access publication waiver (CHF 2,600) — *Energies*
+        date: 2025-03-07
+        awarder: MDPI (Scopus Q1; WoS IF 3.0)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iOg-UIEODui_Bm8k_w?e=fHc2AI
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Open-access publication waiver (CHF 2,400) — *Sustainability*
+        date: 2025-02-11
+        awarder: MDPI (Scopus Q1; WoS IF 3.3)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iOYzGUlCKcnt_DZgYw?e=8ddlzS
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Open-access publication waiver (CHF 2,600) — *Energies*
+        date: 2025-01-07
+        awarder: MDPI (Scopus Q1; WoS IF 3.0)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iNMI912bbvFxsMnhxQ?e=MD8efY
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Open-access publication waiver (CHF 2,400) — *Sustainability*
+        date: 2024-11-19
+        awarder: MDPI (Scopus Q1; WoS IF 3.3)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iNBooB3djnpz0Rlcwg?e=ntnGwD
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Open-access publication waiver (CHF 1,400) — *Societies*
+        date: 2024-08-30
+        awarder: MDPI (Scopus Q2; WoS IF 1.7)
+        url: https://1drv.ms/b/s!AtmwMUiMWG04iNBpw1G3ltA3I_WeZA?e=5dLsLD
 
-      - name: English
-        summary: "Fluent"
+      - title: Full waiver (paper acceptance) — 35th Annual EAEPE Conference
+        date: 2023-06-09
+        awarder: European Association for Evolutionary Political Economy
+        url: https://1drv.ms/i/s!AtmwMUiMWG04h-5eqADQvzILFuIrEw?e=XjCKXh
+        summary: >
+          *Power and Empowerment in times of multiple crisis*, Leeds, UK,
+          13–15 September 2023.
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Reciprocal scholarship — ENIRISST Research Project
+        date: 2021-07-12
+        awarder: NSRF 2014–2020 / Operational Programme *Competitiveness, Entrepreneurship and Innovation*
+        summary: >
+          Researcher in industrial policy and competitiveness (07/2021–08/2023).
+          Scientific coordinator: Dr Dimitrios Dimitriou.
+
+      - title: Best paper (Ph.D. candidates category) — ICABE 2019
+        date: 2019-11-23
+        awarder: International Conference on Applied Business and Economics
+        url: https://drive.google.com/file/d/1cDeBdx3X373CVRFkU8R0hF7EJsYH39Bl/view?usp=sharing
+        summary: >
+          Vlados, Ch., Chatzinikolaou, D. & Demertzis, M. (2019). *Policies to foster
+          entrepreneurship: Elements from the European experience*. Republished in the
+          *International Journal of Finance, Insurance and Risk Management*.
+
+    Research Affiliations:
+      - label: Stra.Tech.Man Lab, Democritus University of Thrace
+        details: Coordinator of the research team (October 2016–Present).
+      - label: Knowledge Management, Innovation and Strategy Center (KISC), University of Nicosia
+        details: Member (December 2023–Present).
+      - label: International Society for Development and Sustainability (ISDS)
+        details: Member (January 2024–Present).
+      - label: European Association for Evolutionary Political Economy (EAEPE)
+        details: Annual paid member (2021–2024).
+      - label: Laboratory of Decision Theory and Economic Analysis, DUTH
+        details: >
+          Ph.D. Candidate, research area *Entrepreneurship and Development*
+          (2021–2024). Coordinators Dr Konstantinos Hazakis and Dr Charis Vlados.
+
+    Peer-Review Service:
+      - label: Verified peer-review activity (Web of Science)
+        details: >
+          *Advances in Developing Human Resources*; *Agriculture & Food Security*;
+          *Applied Economics Letters*; *Business Strategy and the Environment*;
+          *Cogent Business & Management*; *Competitiveness Review*; *Economic
+          Analysis and Policy*; *Emerging Markets Finance and Trade*; *Energies*;
+          *Environment, Development and Sustainability*; *European Journal of
+          Geography*; *Journal of Management Inquiry*; *Journal of the Knowledge
+          Economy*; *Sustainability*; *Systems*; *Transnational Corporations
+          Review*.
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: National Documentation Centre (ΕΚΤ) — Register of Collaborators and Experts
+        date: 2024-01-01
+        issuer: ΕΚΤ
+        icon: fa-solid fa-id-card
+        summary: >
+          Profiles: *Policy Analyst (Economic Geography and Regional Development)*,
+          *Content drafting/editing for electronic & printed publications*, and
+          *Conducting online field research*.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: National Centre for Public Administration & Local Government (ΕΚΔΔΑ) — Register of Principal Teaching Staff
+        date: 2024-01-01
+        issuer: ΕΚΔΔΑ
+        icon: fa-solid fa-id-card
+        summary: Fields *International Economics* and *Development, Entrepreneurship and Innovation* (Decision No. 5445-14/03/2024).
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Accredited Lecturer, University of Derby
+        date: 2023-01-01
+        issuer: University of Derby (via Mediterranean College Thessaloniki)
+        icon: fa-solid fa-graduation-cap
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Trainers Register, ΚΕΔΙΒΙΜ — Democritus University of Thrace
+        date: 2022-01-01
+        issuer: Democritus University of Thrace
+        icon: fa-solid fa-chalkboard-user
+        summary: Subject area *Social, Political and Economic Sciences*. Instructor No. 70.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Text Editing and Proofreading
+        date: 2022-01-01
+        issuer: National and Kapodistrian University of Athens, ΚΕΔΙΒΙΜ
+        icon: fa-solid fa-pen-nib
+        summary: 100-hour programme. Instructor Prof. A. Papathomas.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: National Organization for the Certification of Qualifications and Vocational Guidance (ΕΟΠΠΕΠ)
+        date: 2022-01-01
+        issuer: ΕΟΠΠΕΠ
+        icon: fa-solid fa-id-card
+        summary: Application No. 22-11105.
+
+      - name: Volunteer Mentor, Early Warning Europe Programme
+        date: 2016-01-01
+        issuer: Institute for Small Businesses (ΙΜΕ ΓΣΕΒΕΕ)
+        icon: fa-solid fa-handshake
+        summary: Free mentoring and support to small enterprises facing economic difficulties (2016–2019).
+
+      - name: Member, Economic Chamber of Greece
+        date: 2011-01-01
+        issuer: Economic Chamber of Greece
+        icon: fa-solid fa-id-card
+        summary: Registration No. 0101309.
+
+    Languages:
+      - name: Greek
+        summary: Native speaker.
+
+      - name: English
+        summary: C2 — Examination for the Certificate of Proficiency in English (ECPE), Michigan Language Assessment.
+
+    Interests:
+      - name: International political economy
+        icon: fa-solid fa-globe
+        keywords: "new globalization, geoeconomics, geopolitics, multipolarity"
+
+      - name: Business ecosystems
+        icon: fa-solid fa-diagram-project
+        keywords: "Stra.Tech.Man, helix theories, regional ecosystems, less-developed regions"
+
+      - name: Entrepreneurship and innovation
+        icon: fa-solid fa-lightbulb
+        keywords: "evolutionary economics, dynamic capabilities, firm physiology, SMEs and family businesses"
+
+      - name: Energy systems and transitions
+        icon: fa-solid fa-bolt
+        keywords: "energy geopolitics, sustainable energy policy, energy ecosystems, market liberalisation"
+
+    Articles in the Press:
+      - label: sofokleous10.gr (10 Aug 2025)
+        details: >
+          *New globalization: Towards innovative liberalism or a return to nationalism?* —
+          [link](https://1drv.ms/b/c/386d588c4831b0d9/IQAd8V_bi7w-Rb_KeXyA2mbtAcK6dRe0ddw2b2-0002bS1I?e=1fGoUW).
+      - label: newideas.gr (11 May 2020)
+        details: >
+          *Competitiveness and industrial policy: A dynamic dipole* —
+          [link](https://drive.google.com/file/d/1N1c9_Jp4e1xgtRsrOu0pb69yQw_t-h8P/view?usp=sharing).
+      - label: Φιλελεύθερος (28 Mar 2020)
+        details: >
+          *Entrepreneurship strengthening policies: The need for an "organic" approach for Greece*.
+      - label: report247.gr (22 Jul 2019)
+        details: >
+          *Helix theory, the fourth industrial revolution, and the Greek reality* —
+          [link](https://drive.google.com/file/d/1Ums8S6pdkqwwBbYtG3K6y1QVMNzj8E2C/view?usp=sharing).
+      - label: news4money.gr (23 Feb 2019)
+        details: >
+          *On the articulation of a new economic policy to deal with the crisis* —
+          [link](https://drive.google.com/file/d/1sEngZ8F2ug7jIDhX8GZtgl064ap9cX5C/view?usp=sharing).
