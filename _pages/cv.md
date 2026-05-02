@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 4
 cv_pdf: chatzinikolaou_cv.pdf      # drop your compiled CV PDF in /assets/pdf/
 description: >
