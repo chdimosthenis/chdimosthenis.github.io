@@ -2,33 +2,55 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Adjunct Faculty, <a href="https://www.unic.ac.cy/business/">School of Business</a>,
+  University of Nicosia · Member, <a href="https://www.unic.ac.cy/business/research/kisc/">KISC</a> ·
+  Coordinator, Stra.Tech.Man Lab, Democritus University of Thrace.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Thessaloniki, Greece</p>
+    <p><a href="mailto:dimos.chatzinikolaou@gmail.com">dimos.chatzinikolaou@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: true     # publications listed under selected={true} appear on the home page
+social: true              # Scholar / ORCID / LinkedIn / Scopus links from _data/socials.yml
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
+news: true
+news_limit: 5
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Adjunct Faculty member at the AACSB-accredited
+[School of Business](https://www.unic.ac.cy/business/) of the University of
+Nicosia and a member of the
+[Knowledge Management, Innovation and Strategy Center (KISC)](https://www.unic.ac.cy/business/research/kisc/).
+I also coordinate the **Stra.Tech.Man Lab** at the Department of Economics,
+Democritus University of Thrace.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research develops evolutionary and systems-oriented macro–meso–micro
+approaches to **international political economy, business ecosystems,
+entrepreneurship, and sectoral transformation**, with particular emphasis on
+**energy transitions and the geopolitics of the global economy**. I am
+interested in how firms and ecosystems adapt under structural change, how
+strategic and managerial capabilities form, and how institutional and
+intermediary structures enable or constrain that adaptation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recent and forthcoming work appears in *Strategy & Leadership*, *The Journal
+of Entrepreneurship*, *Journal of the Knowledge Economy*, *Journal of Global
+Responsibility*, *Journal of Economic Integration*, and *Journal of
+Entrepreneurship in Emerging Economies*. I currently serve as Leading Guest
+Editor for special issues of *Sustainability* and *Discover Global Society*,
+and as a member of the International Editorial Board of *Mercados y Negocios*.
+
+I teach at MBA and undergraduate level in **Corporate Strategy, Globalization
+and International Business, Business Economics, Leadership and Innovation,
+Managing SMEs and Family Businesses,** and **Energy and Geopolitics**, and
+have developed full distance-learning material for several of these courses.
+
+A complete record is available in my [CV](/cv/) and on the
+[publications](/publications/) page.

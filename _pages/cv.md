@@ -1,12 +1,13 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 4
+cv_pdf: chatzinikolaou_cv.pdf      # drop your compiled CV PDF in /assets/pdf/
+description: >
+  Updated December 2025. The PDF version is the authoritative record;
+  the page below summarises the same content in HTML.
 toc:
   sidebar: left
 ---
