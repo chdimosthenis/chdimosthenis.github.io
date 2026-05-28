@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-out-in-strategy-amp-amp-leadership-leading-through-complexity-an-integrative-review-and-contingent-innovation-framework-open-access-link-here",
           title: 'New paper out in Strategy &amp;amp;amp; Leadership — “Leading Through Complexity: An Integrative...',
           description: "",
+          section: "News",},{id: "news-new-paper-accepted-at-euromed-journal-of-business-exporter-species-as-heuristic-forms-a-typology-of-export-marketing-capabilities-in-a-peripheral-region-forthcoming-doi-10-1108-emjb-03-2026-0172",
+          title: 'New paper accepted at EuroMed Journal of Business — “Exporter Species as Heuristic...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
