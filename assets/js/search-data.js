@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-accepted-at-euromed-journal-of-business-exporter-species-as-heuristic-forms-a-typology-of-export-marketing-capabilities-in-a-peripheral-region-forthcoming-doi-10-1108-emjb-03-2026-0172",
           title: 'New paper accepted at EuroMed Journal of Business — “Exporter Species as Heuristic...',
           description: "",
+          section: "News",},{id: "news-new-paper-accepted-at-world-affairs-dialectical-geopolitics-in-the-multipolar-energy-era-forthcoming-wiley-scopus-q2",
+          title: 'New paper accepted at World Affairs — “Dialectical Geopolitics in the Multipolar Energy...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
