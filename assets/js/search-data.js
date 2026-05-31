@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-citations",
+          title: "citations",
+          description: "External citations to published research, with the citing venue&#39;s ABS / ABDC / FNEGE / Scopus / WoS indexing where applicable. Cumulative external citations: 331 (through 2025). Last updated 31 May 2026.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/citations/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Updated December 2025. The PDF version is the authoritative record; the page below summarises the same content in HTML.",
