@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-citations",
           title: "citations",
-          description: "External citations to published research, with the citing venue&#39;s ABS / ABDC / FNEGE / Scopus / WoS indexing where applicable. Cumulative external citations: 388 (all years, as of 2 June 2026); 96 candidates under review.",
+          description: "External citations to published research, with the citing venue&#39;s AJG / ABDC / FNEGE / Scopus / WoS indexing where applicable. Cumulative external citations: 388 (all years, as of 2 June 2026); 96 candidates under review.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/citations/";
