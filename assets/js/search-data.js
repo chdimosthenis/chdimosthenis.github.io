@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "news-co-leading-a-discover-global-society-article-collection-on-energy-geopolitics-in-a-transforming-global-order-manuscripts-on-energy-security-transition-pathways-and-great-power-competition-are-encouraged",
           title: 'Co-leading a Discover Global Society article collection on Energy Geopolitics in a Transforming...',
           description: "",
