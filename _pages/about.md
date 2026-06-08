@@ -52,5 +52,10 @@ and International Business, Business Economics, Leadership and Innovation,
 Managing SMEs and Family Businesses,** and **Energy and Geopolitics**, and
 have developed full distance-learning material for several of these courses.
 
+Alongside my academic work, I run [VSME Hellas](https://vsme-hellas.gr/) — an
+advisory practice that helps Greek small and medium-sized enterprises prepare
+Voluntary SME (VSME) sustainability statements under the EFRAG standard and EU
+Recommendation 2025/1710.
+
 A complete record is available in my [CV](/cv/) and on the
 [publications](/publications/) page.
