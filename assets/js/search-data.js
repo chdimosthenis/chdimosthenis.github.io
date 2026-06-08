@@ -45,6 +45,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-accepted-at-world-affairs-dialectical-geopolitics-in-the-multipolar-energy-era-forthcoming-wiley-scopus-q2",
           title: 'New paper accepted at World Affairs — “Dialectical Geopolitics in the Multipolar Energy...',
           description: "",
+          section: "News",},{id: "news-launched-vsme-hellas-an-advisory-practice-helping-greek-smes-prepare-voluntary-sme-vsme-sustainability-statements-under-the-efrag-standard-and-eu-recommendation-2025-1710",
+          title: 'Launched VSME Hellas — an advisory practice helping Greek SMEs prepare Voluntary SME...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
