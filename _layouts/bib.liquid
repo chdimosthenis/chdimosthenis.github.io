@@ -187,6 +187,18 @@
       {{ entry.note | strip }}
     </div>
 
+    <!-- Research-domain category badge (from portfolio_themes.csv via papers.bib `category` field) -->
+    {% if entry.category %}
+      <div class="category mt-1">
+        <span
+          class="badge rounded font-weight-normal"
+          style="background-color: var(--global-bg-color); color: var(--global-text-color-light); border: 1px solid var(--global-divider-color);"
+        >
+          {{- entry.category -}}
+        </span>
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
