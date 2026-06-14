@@ -143,32 +143,11 @@ ninja.data = [{
           window.open("https://www.webofscience.com/wos/author/record/AAL-6613-2020", "_blank");
         },
       },{
-        id: 'social-ssrn',
-        title: 'Ssrn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3129895", "_blank");
-        },
-      },{
         id: 'social-ideas_repec',
         title: 'Ideas_repec',
         section: 'Socials',
         handler: () => {
           window.open("https://ideas.repec.org/f/pch1894.html", "_blank");
-        },
-      },{
-        id: 'social-semantic_scholar',
-        title: 'Semantic_scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.semanticscholar.org/author/Dimos-Chatzinikolaou/120444095", "_blank");
-        },
-      },{
-        id: 'social-academia',
-        title: 'Academia',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://duth.academia.edu/DimosChatzinikolaou", "_blank");
         },
       },{
       id: 'light-theme',
