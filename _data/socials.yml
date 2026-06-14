@@ -30,22 +30,7 @@ web_of_science:
   title: Web of Science Researcher Profile
   url: https://www.webofscience.com/wos/author/record/AAL-6613-2020
 
-ssrn:
-  logo: ai ai-ssrn
-  title: SSRN
-  url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3129895
-
 ideas_repec:
   logo: ai ai-ideas-repec
   title: IDEAS/RePEc
   url: https://ideas.repec.org/f/pch1894.html
-
-semantic_scholar:
-  logo: ai ai-semantic-scholar
-  title: Semantic Scholar
-  url: https://www.semanticscholar.org/author/Dimos-Chatzinikolaou/120444095
-
-academia:
-  logo: ai ai-academia
-  title: Academia.edu
-  url: https://duth.academia.edu/DimosChatzinikolaou
