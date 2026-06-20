@@ -86,6 +86,9 @@ ninja.data = [{
           section: "News",},{id: "news-launched-vsme-hellas-an-advisory-practice-helping-greek-smes-prepare-voluntary-sme-vsme-sustainability-statements-under-the-efrag-standard-and-eu-recommendation-2025-1710",
           title: 'Launched VSME Hellas — an advisory practice helping Greek SMEs prepare Voluntary SME...',
           description: "",
+          section: "News",},{id: "news-new-article-out-in-euromed-journal-of-business-emerald-exporter-species-as-heuristic-forms-a-typology-of-export-marketing-capabilities-in-a-peripheral-region-open-access-cc-by-4-0-it-develops-a-physiology-based-stra-tech-man-typology-of-exporter-forms-across-23-firms-in-eastern-macedonia-and-thrace-read-it",
+          title: 'New article out in EuroMed Journal of Business (Emerald) — Exporter Species as...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
