@@ -89,7 +89,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-article-out-in-euromed-journal-of-business-emerald-exporter-species-as-heuristic-forms-a-typology-of-export-marketing-capabilities-in-a-peripheral-region-open-access-cc-by-4-0-it-develops-a-physiology-based-stra-tech-man-typology-of-exporter-forms-across-23-firms-in-eastern-macedonia-and-thrace-read-it",
           title: 'New article out in EuroMed Journal of Business (Emerald) — Exporter Species as...',
           description: "",
-          section: "News",},{id: "news-new-co-authored-conference-contribution-with-ch-vlados-and-i-gkodosidis-we-submitted-the-abstract-evolutionary-political-economy-the-stra-tech-man-approach-and-the-competitiveness-web-in-the-contemporary-phase-of-transition-towards-the-new-globalization-to-the-5th-panhellenic-conference-on-international-political-economy-tectonic-shifts-in-international-political-economy-contemporary-theories-interpretations-and-challenges-8-10-october-2026",
+          section: "News",},{id: "news-new-co-authored-conference-contribution-with-ch-vlados-and-i-gkodosidis-we-submitted-the-abstract-evolutionary-political-economy-the-stra-tech-man-approach-and-the-competitiveness-web-in-the-contemporary-phase-of-transition-towards-the-new-globalization-to-the-5th-panhellenic-conference-on-international-political-economy-tectonic-shifts-in-international-political-economy-contemporary-theories-interpretations-and-challenges-athens-8-10-october-2026",
           title: 'New co-authored conference contribution with Ch. Vlados and I. Gkodosidis: we submitted the...',
           description: "",
           section: "News",},{
