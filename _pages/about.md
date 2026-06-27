@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
+  <strong>Researcher in International Political Economy &amp; Business Ecosystems.</strong>
   Adjunct Faculty, <a href="https://www.unic.ac.cy/business/">School of Business</a>,
   University of Nicosia · Member, <a href="https://www.unic.ac.cy/business/research/kisc/">KISC</a> ·
   Coordinator, Stra.Tech.Man Lab, Democritus University of Thrace.
@@ -59,3 +60,30 @@ Recommendation 2025/1710.
 
 A complete record is available in my [CV](/cv/) and on the
 [publications](/publications/) page.
+
+## Research streams
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:1rem 0">
+  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 14px">
+    <strong>International political economy</strong><br>
+    <span style="opacity:.75">New globalization, geoeconomics, geopolitics, multipolarity</span>
+  </div>
+  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 14px">
+    <strong>Business ecosystems</strong><br>
+    <span style="opacity:.75">Stra.Tech.Man, helix theories, regional ecosystems, less-developed regions</span>
+  </div>
+  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 14px">
+    <strong>Entrepreneurship &amp; innovation</strong><br>
+    <span style="opacity:.75">Evolutionary economics, dynamic capabilities, firm physiology, SMEs &amp; family businesses</span>
+  </div>
+  <div style="border:1px solid var(--global-divider-color);border-radius:8px;padding:12px 14px">
+    <strong>Energy systems &amp; transitions</strong><br>
+    <span style="opacity:.75">Energy geopolitics, sustainable energy policy, energy ecosystems, market liberalisation</span>
+  </div>
+</div>
+
+## Methods &amp; tools
+
+**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Conceptual &amp; typological theory-building · Case study · Policy analysis
+
+**Tools** — LaTeX/XeLaTeX · Python · Zotero (Better BibTeX) · Git · Cloudflare Workers + D1 · Astro/Next.js
