@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 48-work portfolio (44 published, 4 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 48-work portfolio (45 published, 3 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
