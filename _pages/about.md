@@ -41,10 +41,10 @@ interested in how firms and ecosystems adapt under structural change, how
 strategic and managerial capabilities form, and how institutional and
 intermediary structures enable or constrain that adaptation.
 
-Recent and forthcoming work appears in _Strategy & Leadership_, _The Journal
-of Entrepreneurship_, _Journal of the Knowledge Economy_, _Journal of Global
-Responsibility_, _Journal of Economic Integration_, and _Journal of
-Entrepreneurship in Emerging Economies_. I currently serve as Leading Guest
+Recent work appears in _Strategy & Leadership_, _EuroMed Journal of
+Business_, _The Journal of Entrepreneurship_, _Journal of the Knowledge
+Economy_, _Journal of Global Responsibility_, _Journal of Economic
+Integration_, and _Journal of Entrepreneurship in Emerging Economies_. I currently serve as Leading Guest
 Editor for special issues of _Sustainability_ and _Discover Global Society_,
 and as a member of the International Editorial Board of _Mercados y Negocios_.
 
@@ -56,9 +56,7 @@ have developed full distance-learning material for several of these courses.
 Alongside my academic work, I run [VSME Hellas](https://vsme-hellas.gr/) — an
 advisory practice that helps Greek small and medium-sized enterprises prepare
 Voluntary SME (VSME) sustainability statements under the EFRAG standard and EU
-Recommendation 2025/1710. I also build and maintain
-[Ορθόδοξος Κόμβος](https://orthodoxoskomvos.gr/), a digital library of Orthodox
-Christian texts, lives of the saints, and liturgical resources.
+Recommendation 2025/1710.
 
 A complete record is available in my [CV](/cv/) and on the
 [publications](/publications/) page.
@@ -86,6 +84,6 @@ A complete record is available in my [CV](/cv/) and on the
 
 ## Methods &amp; tools
 
-**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Conceptual &amp; typological theory-building · Case study · Policy analysis
+**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Questionnaire-based firm surveys &amp; descriptive statistics · Conceptual &amp; typological theory-building · Case study · Policy analysis
 
 **Tools** — LaTeX/XeLaTeX · Python · Zotero (Better BibTeX) · Git · Cloudflare Workers + D1 · Astro/Next.js
