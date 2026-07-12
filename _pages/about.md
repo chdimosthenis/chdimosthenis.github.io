@@ -84,6 +84,6 @@ A complete record is available in my [CV](/cv/) and on the
 
 ## Methods &amp; tools
 
-**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Questionnaire-based firm surveys &amp; descriptive statistics · Conceptual &amp; typological theory-building · Case study · Policy analysis
+**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Questionnaire-based firm surveys · Structural equation modeling (PLS-SEM) · Nonparametric &amp; reliability statistics · Mixed-method research designs · Conceptual &amp; typological theory-building · Case study · Policy analysis
 
 **Tools** — LaTeX/XeLaTeX · Python · Zotero (Better BibTeX) · Git · Cloudflare Workers + D1 · Astro/Next.js
