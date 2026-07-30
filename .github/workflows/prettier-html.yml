@@ -19,7 +19,11 @@ jobs:
         uses: actions/setup-node@v4
 
       - name: Install Prettier
-        run: npm install -g prettier
+        # Pinned, and kept in sync with package.json by hand: this job checks
+        # out gh-pages, which has no package.json to read the pin from. Left
+        # unpinned, an upstream prettier release would reformat the whole
+        # generated tree in one commit.
+        run: npm install -g prettier@3.9.6
 
       - name: Check for Prettier
         run: npx prettier --version || echo "Prettier not found"
