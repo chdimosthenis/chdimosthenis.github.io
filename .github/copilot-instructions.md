@@ -214,11 +214,15 @@ bundle exec jekyll build
 - **Cause:** A CRLF working tree. Prettier's `endOfLine: "lf"` default makes
   every text file fail, hiding the file that is genuinely misformatted
 - **Fix:** `.gitattributes` sets `* text=auto eol=lf`, so fresh checkouts are
-  LF. A checkout made before that rule needs a one-time renormalize:
+  LF. A checkout predating that rule needs a one-time renormalize. Commit or
+  stash first — `reset --hard` discards uncommitted work:
   ```bash
-  git add --renormalize .
-  git checkout-index -a -f
+  git rm --cached -r .
+  git reset --hard
   ```
+  `git checkout-index -a -f` is **not** enough: it skips files git considers
+  unchanged and leaves them CRLF. Afterwards `git status` must come back clean,
+  which also proves no binary was misdetected as text and rewritten.
 - **Note:** `npx prettier --write <file>` on a CRLF copy can report success
   while changing nothing but line endings, so a real formatting fix silently
   turns into an empty commit. Confirm with `git diff` before committing.
