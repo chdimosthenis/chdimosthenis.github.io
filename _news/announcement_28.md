@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper accepted at _Perspectives on Global Development and Technology_ (Brill) — **The Theoretical Advancement of International Political Economy and the Analytical Perspectives of the Evolutionary Structural Triptych and Global Competitiveness Web** (with Ch. Vlados). Forthcoming; Scopus Q3; WoS IF 0.4.
+New paper accepted at _Perspectives on Global Development and Technology_ (Brill) — **Advancing International Political Economy: The Evolutionary Structural Triptych and the Global Competitiveness Web** (with Ch. Vlados). Forthcoming; Scopus Q3; WoS IF 0.4.
