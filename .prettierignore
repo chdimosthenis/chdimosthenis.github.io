@@ -13,3 +13,8 @@ _scripts/*
 _data/citations.yml
 # Ignore al-folio vendor documentation (upstream theme docs)
 CUSTOMIZE.md
+# Ignore agent worktrees and session artifacts. A git worktree created under
+# .claude/ is a second copy of the repo, and the ignores above are anchored to
+# the repo root, so the nested copies of _scripts/, _sass/font-awesome/ and
+# lighthouse_results/ would otherwise be checked and fail.
+.claude/

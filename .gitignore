@@ -1,5 +1,9 @@
 _site
 .bundle
+# Agent worktrees are a full second checkout of this repo; never commit one.
+# Left deliberately narrow so .claude/settings.json and friends can still be
+# tracked if wanted.
+.claude/worktrees/
 .DS_store
 .idea
 .jekyll-cache
