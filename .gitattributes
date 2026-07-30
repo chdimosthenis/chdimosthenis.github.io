@@ -1,2 +1,8 @@
+# Normalize text files to LF in the repository and in working trees on every
+# platform. Without this, a Windows checkout gets CRLF and `npx prettier .
+# --check` fails on every text file, which drowns out the one file that really
+# is misformatted. Git detects binaries, so PDFs and images are left alone.
+* text=auto eol=lf
+
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf

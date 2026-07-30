@@ -197,9 +197,31 @@ bundle exec jekyll build
 - **Problem:** PR fails prettier check after local builds passed
 - **Solution:** Run prettier before committing:
   ```bash
+  npm ci
   npx prettier . --write
   git add . && git commit -m "Format code with prettier"
   ```
+- **Use `npm ci`, not `npm install prettier ...`.** The versions are pinned in
+  `package.json`, because `@shopify/prettier-plugin-liquid` changes Liquid
+  formatting between minor releases. 1.11.0 reindented `{% endhighlight %}` in
+  `_layouts/bib.liquid` and turned the check red on content-only commits. Bump
+  the pins deliberately and commit the resulting reformat in the same commit.
+
+### Prettier Reports Every File as Misformatted (Windows)
+
+- **Problem:** `npx prettier . --check` fails on hundreds of files locally but
+  CI flags one or none
+- **Cause:** A CRLF working tree. Prettier's `endOfLine: "lf"` default makes
+  every text file fail, hiding the file that is genuinely misformatted
+- **Fix:** `.gitattributes` sets `* text=auto eol=lf`, so fresh checkouts are
+  LF. A checkout made before that rule needs a one-time renormalize:
+  ```bash
+  git add --renormalize .
+  git checkout-index -a -f
+  ```
+- **Note:** `npx prettier --write <file>` on a CRLF copy can report success
+  while changing nothing but line endings, so a real formatting fix silently
+  turns into an empty commit. Confirm with `git diff` before committing.
 
 ### Port 8080 or 4000 Already in Use
 

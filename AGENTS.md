@@ -36,8 +36,10 @@ Before every commit, you **must** run these steps:
 
 1.  **Format Code:**
     ```bash
-    # (First time only)
-    npm install --save-dev prettier @shopify/prettier-plugin-liquid
+    # (First time only) Install the pinned versions from package-lock.json.
+    # Do not `npm install prettier @shopify/prettier-plugin-liquid` — that
+    # resolves latest and can reformat files the CI check disagrees with.
+    npm ci
     # Format all files
     npx prettier . --write
     ```
