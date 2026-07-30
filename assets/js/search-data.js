@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 48-work portfolio (45 published, 3 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 48-work portfolio (46 published, 2 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
@@ -139,6 +139,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-citation-milestone-520-cumulative-external-citations-across-the-portfolio-with-an-external-h-index-of-11-and-a-mean-web-of-science-impact-factor-of-citing-sources-of-3-2-self-citations-excluded-full-point-in-time-record-on-the-citations-page",
           title: 'Citation milestone — 520 cumulative external citations across the portfolio, with an external...',
+          description: "",
+          section: "News",},{id: "news-now-out-in-the-international-journal-of-global-environmental-issues-inderscience-why-the-cptpp-could-be-an-impetus-for-the-new-globalisation-with-ch-vlados-in-the-special-issue-on-the-tpp-cptpp-and-global-trade-vol-24-no-4-pp-332-356-scopus-q4-read-it",
+          title: 'Now out in the International Journal of Global Environmental Issues (Inderscience): Why the...',
           description: "",
           section: "News",},{
         id: 'social-cv',
