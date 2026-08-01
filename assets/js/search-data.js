@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Peer-reviewed journal articles, chapters in edited volumes, and selected conference proceedings. ABS / ABDC / Scopus / WoS rankings shown where applicable. Last updated December 2025.",
+          description: "Peer-reviewed journal articles, chapters in edited volumes, and selected conference proceedings. AJG / ABDC / Scopus / WoS rankings shown where applicable. Last updated December 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
