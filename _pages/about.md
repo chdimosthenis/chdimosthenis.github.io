@@ -29,7 +29,7 @@ latest_posts:
 I am an Adjunct Faculty member at the AACSB-accredited
 [School of Business](https://www.unic.ac.cy/business/) of the University of
 Nicosia and a member of the
-[Knowledge Management, Innovation and Strategy Center (KISC)](https://www.unic.ac.cy/business/research/kisc/).
+[Knowledge Management, Innovation, and Strategy Centre (KISC)](https://www.unic.ac.cy/business/research/kisc/).
 I also coordinate the **Stra.Tech.Man Lab** at the Department of Economics,
 Democritus University of Thrace.
 
