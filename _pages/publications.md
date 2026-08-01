@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: >
   Peer-reviewed journal articles, chapters in edited volumes, and selected
-  conference proceedings. ABS / ABDC / Scopus / WoS rankings shown where
+  conference proceedings. AJG / ABDC / Scopus / WoS rankings shown where
   applicable. Last updated December 2025.
 nav: true
 nav_order: 2
