@@ -143,6 +143,9 @@ ninja.data = [{
           section: "News",},{id: "news-now-out-in-the-international-journal-of-global-environmental-issues-inderscience-why-the-cptpp-could-be-an-impetus-for-the-new-globalisation-with-ch-vlados-in-the-special-issue-on-the-tpp-cptpp-and-global-trade-vol-24-no-4-pp-332-356-scopus-q4-read-it",
           title: 'Now out in the International Journal of Global Environmental Issues (Inderscience): Why the...',
           description: "",
+          section: "News",},{id: "news-now-out-in-world-affairs-wiley-for-the-policy-studies-organization-dialectical-geopolitics-in-the-multipolar-energy-era-vol-189-no-3-e70081-scopus-q2-open-access-read-it",
+          title: 'Now out in World Affairs (Wiley, for the Policy Studies Organization): Dialectical Geopolitics...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
