@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 48-work portfolio (46 published, 2 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 48-work portfolio (47 published, 1 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
@@ -145,6 +145,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-now-out-in-world-affairs-wiley-for-the-policy-studies-organization-dialectical-geopolitics-in-the-multipolar-energy-era-vol-189-no-3-e70081-scopus-q2-open-access-read-it",
           title: 'Now out in World Affairs (Wiley, for the Policy Studies Organization): Dialectical Geopolitics...',
+          description: "",
+          section: "News",},{id: "news-peer-review-record-updated-94-verified-reviews-across-64-manuscripts-on-web-of-science-spanning-25-journals-recent-additions-include-technological-forecasting-and-social-change-business-strategy-and-the-environment-energy-research-amp-amp-social-science-international-review-of-economics-and-finance-and-mineral-economics",
+          title: 'Peer-review record updated: 94 verified reviews across 64 manuscripts on Web of Science,...',
           description: "",
           section: "News",},{
         id: 'social-cv',
