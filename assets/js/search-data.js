@@ -149,7 +149,7 @@ ninja.data = [{
           section: "News",},{id: "news-peer-review-record-updated-94-verified-reviews-across-64-manuscripts-on-web-of-science-spanning-25-journals-recent-additions-include-technological-forecasting-and-social-change-business-strategy-and-the-environment-energy-research-amp-amp-social-science-international-review-of-economics-and-finance-and-mineral-economics",
           title: 'Peer-review record updated: 94 verified reviews across 64 manuscripts on Web of Science,...',
           description: "",
-          section: "News",},{id: "news-paper-accepted-for-presentation-at-the-2nd-international-interdisciplinary-conference-of-phd-holders-in-the-public-sector-sustainable-development-innovation-and-public-governance-panhellenic-association-of-phd-holders-in-the-public-sector-pasyd-held-online-on-26-27-september-2026-innovation-and-development-in-local-terms-the-case-of-itak-with-g-gkodosidis-and-ch-vlados-in-greek-session-1-3-innovation-and-entrepreneurship-26-september-2026",
+          section: "News",},{id: "news-paper-accepted-for-presentation-at-the-2nd-international-interdisciplinary-conference-of-phd-holders-in-the-public-sector-sustainable-development-innovation-and-public-governance-panhellenic-association-of-phd-holders-in-the-public-sector-pasyd-held-online-on-26-27-september-2026-innovation-and-development-in-local-terms-the-case-of-the-institutes-of-local-development-and-innovation-ildi-with-g-gkodosidis-and-ch-vlados-in-greek-session-1-3-innovation-and-entrepreneurship-26-september-2026",
           title: 'Paper accepted for presentation at the 2nd International Interdisciplinary Conference of PhD Holders...',
           description: "",
           section: "News",},{
