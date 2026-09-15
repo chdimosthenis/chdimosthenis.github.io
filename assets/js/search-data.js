@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 48-work portfolio (47 published, 1 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 49-work portfolio (47 published, 2 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
@@ -154,6 +154,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-paper-accepted-for-presentation-at-the-5th-panhellenic-conference-on-international-political-economy-tectonic-shifts-in-international-political-economy-contemporary-theories-interpretations-and-challenges-athens-8-10-october-2026-evolutionary-political-economy-the-stra-tech-man-approach-and-the-competitiveness-web-in-the-contemporary-phase-of-transition-towards-the-new-globalization-with-ch-vlados-and-g-gkodosidis-in-greek-session-7-public-policies-and-economic-development-10-october-2026",
           title: 'Paper accepted for presentation at the 5th Panhellenic Conference on International Political Economy,...',
+          description: "",
+          section: "News",},{id: "news-new-paper-accepted-at-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-abidi-forthcoming-scopus-q2-wos-if-2-2",
+          title: 'New paper accepted at Societies (MDPI): Environmental Saturation and Uneven Digital Adoption Among...',
           description: "",
           section: "News",},{
         id: 'social-cv',
