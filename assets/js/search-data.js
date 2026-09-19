@@ -155,10 +155,10 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-for-presentation-at-the-5th-panhellenic-conference-on-international-political-economy-tectonic-shifts-in-international-political-economy-contemporary-theories-interpretations-and-challenges-athens-8-10-october-2026-evolutionary-political-economy-the-stra-tech-man-approach-and-the-competitiveness-web-in-the-contemporary-phase-of-transition-towards-the-new-globalization-with-ch-vlados-and-g-gkodosidis-in-greek-session-7-public-policies-and-economic-development-10-october-2026",
           title: 'Paper accepted for presentation at the 5th Panhellenic Conference on International Political Economy,...',
           description: "",
-          section: "News",},{id: "news-new-paper-accepted-at-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-abidi-forthcoming-scopus-q2-wos-if-2-2",
+          section: "News",},{id: "news-new-paper-accepted-at-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-k-abidi-forthcoming-scopus-q2-wos-if-2-2",
           title: 'New paper accepted at Societies (MDPI): Environmental Saturation and Uneven Digital Adoption Among...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-in-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-abidi-16-9-294-open-access-10-3390-soc16090294",
+          section: "News",},{id: "news-new-paper-published-in-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-k-abidi-16-9-294-open-access-10-3390-soc16090294",
           title: 'New paper published in Societies (MDPI): Environmental Saturation and Uneven Digital Adoption Among...',
           description: "",
           section: "News",},{
