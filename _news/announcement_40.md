@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper accepted at _Societies_ (MDPI): **Environmental Saturation and Uneven Digital Adoption Among Service SMEs in Qatar: A PLS-SEM Study** (with D. Abidi). Forthcoming; Scopus Q2; WoS IF 2.2.
+New paper accepted at _Societies_ (MDPI): **Environmental Saturation and Uneven Digital Adoption Among Service SMEs in Qatar: A PLS-SEM Study** (with D. K. Abidi). Forthcoming; Scopus Q2; WoS IF 2.2.
