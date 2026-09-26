@@ -124,6 +124,7 @@ cv:
         position: Coordinator of the research team
         location: Komotini, Greece
         start_date: 2016
+        end_date: 2024
 
       - company: Knowledge Management, Innovation, and Strategy Centre (KISC), University of Nicosia
         position: Member
@@ -230,7 +231,7 @@ cv:
 
     Research Affiliations:
       - label: Stra.Tech.Man Lab, Democritus University of Thrace
-        details: Coordinator of the research team (October 2016–Present).
+        details: Coordinator of the research team (October 2016–December 2024).
       - label: Knowledge Management, Innovation, and Strategy Centre (KISC), University of Nicosia
         details: Member (December 2023–Present).
       - label: International Society for Development and Sustainability (ISDS)
