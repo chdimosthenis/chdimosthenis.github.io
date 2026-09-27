@@ -61,13 +61,16 @@ cv:
         location: Nicosia, Cyprus
         start_date: 2025
         summary: >
-          Independent teaching across the distance-learning MBA and face-to-face
-          MBA programmes; full distance-learning material developed for several
-          courses. The Online MBA programme is ranked in the top 100 worldwide
-          in the [QS Online MBA Rankings 2026](https://www.topmba.com/online-mba-rankings).
+          Independent teaching in the distance-learning and face-to-face MBA and,
+          from Fall 2026, the online BBA, in English and Greek: 34 course sections
+          of 11 courses with 613 student registrations since Spring 2025, nine
+          sections in Fall 2026 alone; full distance-learning material developed
+          for several courses. The Online MBA programme is ranked in the top 100
+          worldwide in the [QS Online MBA Rankings 2026](https://www.topmba.com/online-mba-rankings).
         highlights:
-          - "Distance Learning MBA — Business Economics; Corporate Strategy; Energy & Geopolitics; Globalization and International Business Challenges; Leadership & Innovation; Managing SMEs & Family Businesses; Environmental Impact Assessment in the HCB Industry; Markets and Economics of Hydrocarbons."
+          - "Distance Learning MBA — Business Economics; Corporate Strategy; Energy & Geopolitics; Entrepreneurship and Startup Management; Environmental Impact Assessment in the HCB Industry; Globalization and International Business Challenges; Leadership & Innovation; Managing SMEs & Family Businesses; Markets and Economics of Hydrocarbons."
           - "Face-to-Face MBA — Managing SMEs & Family Businesses (Fall 2025)."
+          - "Distance Learning BBA — International Business; Strategy and Business Policy (Fall 2026)."
 
       - company: University of Macedonia, Department of International and European Studies
         position: Adjunct Faculty
@@ -76,21 +79,6 @@ cv:
         end_date: 2025
         highlights:
           - "ΔΕ5020 — Elements of Business Organization and Management (Fall 2025)."
-
-      - company: Aegean College Thessaloniki
-        position: Teaching Faculty (MBA)
-        location: Thessaloniki, Greece
-        start_date: 2025
-        highlights:
-          - "Operations and Supply Chain Management (Fall 2025)."
-
-      - company: Sole Proprietorship Consulting
-        position: Founder
-        location: Thessaloniki, Greece
-        start_date: 2025
-        summary: >
-          Teaching, translation and interpreting, author services, and business
-          and management consulting.
 
       - company: Democritus University of Thrace, Department of Economics
         position: Adjunct Faculty
@@ -112,6 +100,13 @@ cv:
           - "BSc (Hons) Shipping Management — International Trade."
           - "MBA Global — Career Coaching and Mentoring."
 
+      - company: Aegean College Thessaloniki
+        position: Teaching Faculty (MBA)
+        location: Thessaloniki, Greece
+        start_date: 2025
+        highlights:
+          - "Operations and Supply Chain Management (Fall 2025)."
+
       - company: DELTA360 Institute of Vocational Training
         position: Teaching Faculty
         location: Thessaloniki, Greece
@@ -120,11 +115,23 @@ cv:
         highlights:
           - "Business Administration; Marketing; Marketing Management; Marketing Services; Principles of Economics; Retail, Wholesale and Distribution Marketing; Financial Data and Airport Total Quality Management."
 
+      - company: Sole Proprietorship Consulting
+        position: Founder
+        location: Thessaloniki, Greece
+        start_date: 2025
+        summary: >
+          Teaching, translation and interpreting, author services, and business
+          and management consulting.
+
       - company: Stra.Tech.Man Lab, Democritus University of Thrace
         position: Coordinator of the research team
         location: Komotini, Greece
         start_date: 2016
         end_date: 2024
+        summary: >
+          Guidance of student theses within the research team, as part of the
+          doctoral research; non-editing teacher in University of Nicosia courses;
+          lectures to academic audiences presenting the research.
 
       - company: Knowledge Management, Innovation, and Strategy Centre (KISC), University of Nicosia
         position: Member
@@ -140,6 +147,17 @@ cv:
         position: Owner
         start_date: 2012
         end_date: 2019
+
+    Thesis Supervision:
+      - label: University of Nicosia, School of Business (Spring 2025–Present)
+        details: >
+          Supervision of 10 MBA theses registered from Spring 2025 to Fall 2026,
+          three completed and seven in progress (2024–25: 1; 2025–26: 4; 2026–27: 5),
+          in the Energy, Oil and Natural Gas (5), Human Resource Management (2), and
+          Entrepreneurship and Digital Transformation (3) concentrations, in English
+          and Greek.
+      - label: Mediterranean College Thessaloniki (University of Derby) (2026)
+        details: Supervision of 2 MBA Global dissertations.
 
     Editorial Roles:
       - label: Topic Editor — *Frontiers in Political Science* (Scopus Q1; WoS IF 2.0)
@@ -231,7 +249,11 @@ cv:
 
     Research Affiliations:
       - label: Stra.Tech.Man Lab, Democritus University of Thrace
-        details: Coordinator of the research team (October 2016–December 2024).
+        details: >
+          Coordinator of the research team (October 2016–December 2024); guidance of
+          student theses within the team as part of the doctoral research, non-editing
+          teacher in University of Nicosia courses, and lectures to academic audiences
+          presenting the research.
       - label: Knowledge Management, Innovation, and Strategy Centre (KISC), University of Nicosia
         details: Member (December 2023–Present).
       - label: International Society for Development and Sustainability (ISDS)
