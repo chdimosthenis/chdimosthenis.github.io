@@ -178,6 +178,29 @@ layout: default
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
+              {% elsif section_entries.first.group %}
+                <!--
+                  Grouped section (added 27/09/2026): a subheading per `group`, in data order;
+                  entries with `company` use the experience renderer, others the label/details pattern
+                -->
+                {% assign groups = section_entries | map: 'group' | uniq %}
+                {% for g in groups %}
+                  <h5 class="font-weight-medium mt-3 mb-2">{{ g }}</h5>
+                  {% assign entries = section_entries | where: 'group', g %}
+                  {% if entries.first.company %}
+                    {% include cv/experience.liquid %}
+                  {% else %}
+                    {% for entry in entries %}
+                      <div class="card-text font-weight-light mb-2">
+                        <strong>{{ entry.label }}:</strong> {{ entry.details | markdownify | remove: '<p>' | remove: '</p>' }}
+                      </div>
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
+              {% elsif section_entries.first.company %}
+                <!-- Experience-style section under another name (added 27/09/2026) -->
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
               {% else %}
                 <!-- Generic section -->
                 {% for entry in section_entries %}
