@@ -164,8 +164,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-societies-mdpi-environmental-saturation-and-uneven-digital-adoption-among-service-smes-in-qatar-a-pls-sem-study-with-d-k-abidi-16-9-294-open-access-10-3390-soc16090294",
           title: 'New paper published in Societies (MDPI): Environmental Saturation and Uneven Digital Adoption Among...',
           description: "",
-          section: "News",},{id: "news-fall-2026-at-the-university-of-nicosia-starts-with-nine-course-sections-including-for-the-first-time-the-online-bba-courses-international-business-and-strategy-and-business-policy-since-spring-2025-the-teaching-there-comes-to-34-course-sections-of-11-courses-with-613-student-registrations-and-10-mba-theses-three-completed-seven-in-progress-the-cv-now-separates-university-and-college-teaching-and-adds-a-thesis-supervision-section",
-          title: 'Fall 2026 at the University of Nicosia starts with nine course sections, including,...',
+          section: "News",},{id: "news-fall-2026-at-the-university-of-nicosia-starts-with-ten-course-sections-including-for-the-first-time-the-online-bba-courses-international-business-and-strategy-and-business-policy-since-spring-2025-the-teaching-there-comes-to-35-course-sections-of-11-courses-with-614-student-registrations-and-10-mba-theses-three-completed-seven-in-progress-the-cv-now-separates-university-and-college-teaching-and-adds-a-thesis-supervision-section",
+          title: 'Fall 2026 at the University of Nicosia starts with ten course sections, including,...',
           description: "",
           section: "News",},{
         id: 'social-cv',
