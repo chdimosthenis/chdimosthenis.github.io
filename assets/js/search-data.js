@@ -167,6 +167,9 @@ ninja.data = [{
           section: "News",},{id: "news-fall-2026-at-the-university-of-nicosia-starts-with-ten-course-sections-including-for-the-first-time-the-online-bba-courses-international-business-and-strategy-and-business-policy-since-spring-2025-the-teaching-there-comes-to-35-course-sections-of-11-courses-with-614-student-registrations-and-10-mba-theses-three-completed-seven-in-progress-the-cv-now-separates-university-and-college-teaching-and-adds-a-thesis-supervision-section",
           title: 'Fall 2026 at the University of Nicosia starts with ten course sections, including,...',
           description: "",
+          section: "News",},{id: "news-a-new-teaching-assignment-for-fall-2026-at-the-democritus-university-of-thrace-the-compulsory-first-semester-course-political-economy-of-european-integration-πολιτική-οικονομία-της-ευρωπαϊκής-ολοκλήρωσης-10-ects-in-the-interdepartmental-postgraduate-programme-contemporary-european-studies-law-economy-politics-department-of-law-and-department-of-economics-delivered-online-the-cv-now-lists-it",
+          title: 'A new teaching assignment for Fall 2026 at the Democritus University of Thrace:...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
