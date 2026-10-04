@@ -173,6 +173,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-cv-now-summarizes-the-student-evaluations-of-teaching-received-so-far-at-the-university-of-nicosia-a-faculty-member-mean-of-4-65-out-of-5-weighted-by-number-of-responses-across-18-taught-course-sections-and-45-responses-between-spring-2025-and-summer-2026-and-at-the-university-of-macedonia-4-8-out-of-5-on-overall-instructor-performance-against-a-department-mean-of-4-3-for-the-fall-2025-course",
           title: 'The CV now summarizes the student evaluations of teaching received so far: at...',
           description: "",
+          section: "News",},{id: "news-with-g-gkodosidis-and-ch-vlados-a-paper-on-the-institutes-of-local-development-and-innovation-ιτακ-was-presented-on-26-september-at-the-2nd-international-interdisciplinary-conference-of-phd-holders-in-the-public-sector-sustainable-development-innovation-and-public-governance-online-the-abstract-appears-in-the-conference-book-of-abstracts-and-the-cv-now-lists-the-presentation",
+          title: 'With G. Gkodosidis and Ch. Vlados, a paper on the Institutes of Local...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
