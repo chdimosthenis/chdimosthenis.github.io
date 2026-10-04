@@ -170,7 +170,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-new-teaching-assignment-for-fall-2026-at-the-democritus-university-of-thrace-the-compulsory-first-semester-course-political-economy-of-european-integration-πολιτική-οικονομία-της-ευρωπαϊκής-ολοκλήρωσης-10-ects-in-the-interdepartmental-postgraduate-programme-contemporary-european-studies-law-economy-politics-department-of-law-and-department-of-economics-delivered-online-the-cv-now-lists-it",
           title: 'A new teaching assignment for Fall 2026 at the Democritus University of Thrace:...',
           description: "",
-          section: "News",},{id: "news-the-cv-now-summarizes-the-student-evaluations-of-teaching-received-so-far-at-the-university-of-nicosia-a-faculty-member-mean-of-4-67-out-of-5-weighted-by-number-of-responses-across-20-course-sections-and-47-responses-between-spring-2025-and-summer-2026-and-at-the-university-of-macedonia-4-8-out-of-5-on-overall-instructor-performance-against-a-department-mean-of-4-3-for-the-fall-2025-course",
+          section: "News",},{id: "news-the-cv-now-summarizes-the-student-evaluations-of-teaching-received-so-far-at-the-university-of-nicosia-a-faculty-member-mean-of-4-65-out-of-5-weighted-by-number-of-responses-across-18-taught-course-sections-and-45-responses-between-spring-2025-and-summer-2026-and-at-the-university-of-macedonia-4-8-out-of-5-on-overall-instructor-performance-against-a-department-mean-of-4-3-for-the-fall-2025-course",
           title: 'The CV now summarizes the student evaluations of teaching received so far: at...',
           description: "",
           section: "News",},{
