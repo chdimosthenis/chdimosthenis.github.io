@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <strong>Researcher in International Political Economy &amp; Business Ecosystems.</strong>
   Adjunct Faculty, <a href="https://www.unic.ac.cy/business/">School of Business</a>,
-  University of Nicosia · Member, <a href="https://www.unic.ac.cy/business/research/kisc/">KISC</a>.
+  University of Nicosia · Member, <a href="https://www.unic.ac.cy/centres/unrf/research-centres-unrf/knowledge-innovation-and-strategy-centre-kisc/">KISC</a>.
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 I am an Adjunct Faculty member at the AACSB-accredited
 [School of Business](https://www.unic.ac.cy/business/) of the University of
 Nicosia and a member of the
-[Knowledge Management, Innovation, and Strategy Centre (KISC)](https://www.unic.ac.cy/business/research/kisc/).
+[Knowledge Management, Innovation, and Strategy Centre (KISC)](https://www.unic.ac.cy/centres/unrf/research-centres-unrf/knowledge-innovation-and-strategy-centre-kisc/).
 
 My research develops evolutionary and systems-oriented macro–meso–micro
 approaches to **international political economy, business ecosystems,
