@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 49-work portfolio (48 published, 1 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 50-work portfolio (48 published, 2 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
@@ -175,6 +175,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-with-g-gkodosidis-and-ch-vlados-a-paper-on-the-institutes-of-local-development-and-innovation-ιτακ-was-presented-on-26-september-at-the-2nd-international-interdisciplinary-conference-of-phd-holders-in-the-public-sector-sustainable-development-innovation-and-public-governance-online-the-abstract-appears-in-the-conference-book-of-abstracts-and-the-cv-now-lists-the-presentation",
           title: 'With G. Gkodosidis and Ch. Vlados, a paper on the Institutes of Local...',
+          description: "",
+          section: "News",},{id: "news-new-paper-accepted-at-european-journal-of-east-asian-studies-brill-coordination-without-hegemony-rcep-and-the-political-economy-of-multipolar-regionalism-in-asia-forthcoming-scopus-q2-wos-if-0-5",
+          title: 'New paper accepted at European Journal of East Asian Studies (Brill): Coordination Without...',
           description: "",
           section: "News",},{
         id: 'social-cv',
