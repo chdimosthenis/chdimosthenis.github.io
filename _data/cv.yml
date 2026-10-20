@@ -299,6 +299,18 @@ cv:
           *World*.
 
     Certificates:
+      - name: European Commission — Registered Independent Expert
+        date: 2026-10-18
+        issuer: European Commission (Funding & Tenders Portal)
+        icon: fa-solid fa-id-card
+        summary: Expert ID EX2026D1557706, for the evaluation of proposals and the monitoring of projects under *Horizon Europe* and other EU programs.
+
+      - name: COST Association — Registered Expert (e-COST database)
+        date: 2025-01-01
+        issuer: COST (European Cooperation in Science and Technology)
+        icon: fa-solid fa-id-card
+        summary: Field *Development, economic growth, competitiveness* (Economics and business); available for the evaluation of COST Action proposals.
+
       - name: National Documentation Centre (ΕΚΤ) — Register of Collaborators and Experts
         date: 2024-01-01
         issuer: ΕΚΤ
