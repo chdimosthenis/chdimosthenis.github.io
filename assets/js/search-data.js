@@ -179,6 +179,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-accepted-at-european-journal-of-east-asian-studies-brill-coordination-without-hegemony-rcep-and-the-political-economy-of-multipolar-regionalism-in-asia-forthcoming-scopus-q2-wos-if-0-5",
           title: 'New paper accepted at European Journal of East Asian Studies (Brill): Coordination Without...',
           description: "",
+          section: "News",},{id: "news-registered-as-an-independent-expert-of-the-european-commission-funding-amp-amp-tenders-portal-for-the-evaluation-of-proposals-and-the-monitoring-of-projects-under-horizon-europe-and-other-eu-programs",
+          title: 'Registered as an independent expert of the European Commission (Funding &amp;amp;amp; Tenders Portal),...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
