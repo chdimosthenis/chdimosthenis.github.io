@@ -39,18 +39,23 @@ strategic and managerial capabilities form, and how institutional and
 intermediary structures enable or constrain that adaptation.
 
 Recent work appears in _Strategy & Leadership_, _EuroMed Journal of
-Business_, _The Journal of Entrepreneurship_, _Journal of the Knowledge
-Economy_, _Journal of Global Responsibility_, _Journal of Economic
-Integration_, and _Journal of Entrepreneurship in Emerging Economies_. I currently serve as Leading Guest
-Editor for special issues of _Sustainability_ and _Discover Global Society_,
-and as a member of the International Editorial Board of _Mercados y Negocios_.
+Business_, _World Affairs_, _The Journal of Entrepreneurship_, _Journal of the
+Knowledge Economy_, _Journal of Global Responsibility_, _Journal of Economic
+Integration_, and _Journal of Entrepreneurship in Emerging Economies_, with
+forthcoming articles in the _European Journal of East Asian Studies_ and
+_Perspectives on Global Development and Technology_. I serve as Associate
+Editor for the International Studies section of _Frontiers in Political
+Science_ and as a member of the International Editorial Board of _Mercados y
+Negocios_, and I have led special issues of _Sustainability_ and _Discover
+Global Society_ as Leading Guest Editor.
 
-I teach at MBA and undergraduate level in **Corporate Strategy, Globalization
-and International Business, Business Economics, Leadership and Innovation,
-Managing SMEs and Family Businesses,** and **Energy and Geopolitics**, and
-have developed full distance-learning material for several of these courses.
+I teach at MBA and undergraduate level in **Corporate Strategy, Strategy and
+Business Policy, Globalization and International Business, Entrepreneurship
+and Startup Management, Managing SMEs and Family Businesses, Business
+Economics,** and **Energy and Geopolitics**, and have developed full
+distance-learning material for several of these courses.
 
-Alongside my academic work, I run [VSME Hellas](https://vsme-hellas.gr/) — an
+Alongside my academic work, I run [VSME Hellas](https://vsme-hellas.gr/), an
 advisory practice that helps Greek small and medium-sized enterprises prepare
 Voluntary SME (VSME) sustainability statements under the EFRAG standard and EU
 Recommendation 2025/1710.
