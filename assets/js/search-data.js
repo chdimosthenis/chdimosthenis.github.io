@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research-themes",
           title: "research themes",
-          description: "A verification ledger mapping the full 51-work portfolio (48 published, 3 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
+          description: "A verification ledger mapping the full 51-work portfolio (49 published, 2 forthcoming) onto 9 controlled research domains, with the per-venue AJG / ABDC / Scopus / WoS / FNEGE / EconLit indexing for each work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/themes/";
@@ -181,6 +181,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-accepted-at-journal-of-innovation-management-university-of-porto-matching-innovation-strategy-to-context-an-adaptive-leadership-framework-forthcoming-ajg-1-abdc-c-scopus-q2",
           title: 'New paper accepted at Journal of Innovation Management (University of Porto): Matching Innovation...',
+          description: "",
+          section: "News",},{id: "news-new-paper-published-in-the-european-journal-of-east-asian-studies-brill-coordination-without-hegemony-rcep-and-the-political-economy-of-multipolar-regionalism-in-asia-25-3-325-351-scopus-q2-wos-if-0-5-doi",
+          title: 'New paper published in the European Journal of East Asian Studies (Brill): Coordination...',
           description: "",
           section: "News",},{
         id: 'social-cv',
