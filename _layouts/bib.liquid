@@ -48,7 +48,12 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">{{ entry.title }}
+      {%- if entry.pdf %}
+        {%- if entry.pdf contains '://' %}{% assign pdf_href = entry.pdf %}{% else %}{% assign pdf_href = entry.pdf | prepend: '/assets/pdf/' | relative_url %}{% endif %}
+        <a href="{{ pdf_href }}" class="pdf-icon ms-1" target="_blank" rel="noopener" title="Open the full text (PDF)" aria-label="Open the full text (PDF)"><i class="fa-solid fa-file-pdf" style="color:#d32f2f;"></i></a>
+      {%- endif -%}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
