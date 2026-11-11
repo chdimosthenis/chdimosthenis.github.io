@@ -185,6 +185,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-the-european-journal-of-east-asian-studies-brill-coordination-without-hegemony-rcep-and-the-political-economy-of-multipolar-regionalism-in-asia-25-3-325-351-scopus-q2-wos-if-0-5-doi",
           title: 'New paper published in the European Journal of East Asian Studies (Brill): Coordination...',
           description: "",
+          section: "News",},{id: "news-invited-to-deliver-two-training-modules-on-business-strategy-for-advanced-air-mobility-at-the-main-training-event-of-the-horizon-europe-excellence-hub-eusome-institute-mihajlo-pupin-belgrade-19-november-2026-market-analysis-and-anticipated-customers-and-business-and-industry-insights-for-cyprus-invited-by-the-cyprus-chamber-of-commerce-and-industry-project-site",
+          title: 'Invited to deliver two training modules on business strategy for advanced air mobility...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
