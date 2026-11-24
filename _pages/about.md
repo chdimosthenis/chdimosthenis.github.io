@@ -47,8 +47,8 @@ _Perspectives on Global Development and Technology_ and the _Journal of
 Innovation Management_. I serve as Associate
 Editor for the International Studies section of _Frontiers in Political
 Science_ and as a member of the International Editorial Board of _Mercados y
-Negocios_, and I have led special issues of _Sustainability_ and _Discover
-Global Society_ as Leading Guest Editor.
+Negocios_, and I have led a special issue of _Discover Global Society_ as
+Leading Guest Editor.
 
 I teach at MBA and undergraduate level in **Corporate Strategy, Strategy and
 Business Policy, Globalization and International Business, Entrepreneurship
@@ -87,6 +87,6 @@ A complete record is available in my [CV](/cv/) and on the
 
 ## Methods &amp; tools
 
-**Methods** — Systematic &amp; integrative literature review · Bibliometric / citation analysis · Questionnaire-based firm surveys · Structural equation modeling (PLS-SEM) · Nonparametric &amp; reliability statistics · Mixed-method research designs · Conceptual &amp; typological theory-building · Case study · Policy analysis
+**Methods:** Systematic &amp; integrative literature review · Bibliometric / citation analysis · Preregistered empirical tests · Questionnaire-based firm surveys · Analysis of European firm-level survey microdata · Structural equation modeling (PLS-SEM) · Empirical testing of typologies · Nonparametric &amp; reliability statistics · Content and text analysis of corporate and policy documents · Document and archival analysis · Mixed-method research designs · Conceptual &amp; typological theory-building · Case study · Policy analysis
 
-**Tools** — LaTeX/XeLaTeX · Python · Zotero (Better BibTeX) · Git · Cloudflare Workers + D1 · Astro/Next.js
+**Tools:** R · Python · Quarto · LaTeX/XeLaTeX · Zotero (Better BibTeX) · Git
