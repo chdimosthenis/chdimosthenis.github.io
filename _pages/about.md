@@ -39,12 +39,12 @@ strategic and managerial capabilities form, and how institutional and
 intermediary structures enable or constrain that adaptation.
 
 Recent work appears in _Strategy & Leadership_, _EuroMed Journal of
-Business_, _World Affairs_, _European Journal of East Asian Studies_, _The Journal of
+Business_, _World Affairs_, _European Journal of East Asian Studies_,
+_Perspectives on Global Development and Technology_, _The Journal of
 Entrepreneurship_, _Journal of the Knowledge Economy_, _Journal of Global
 Responsibility_, _Journal of Economic Integration_, and _Journal of
-Entrepreneurship in Emerging Economies_, with forthcoming articles in
-_Perspectives on Global Development and Technology_ and the _Journal of
-Innovation Management_. I serve as Associate
+Entrepreneurship in Emerging Economies_, with a forthcoming article in the
+_Journal of Innovation Management_. I serve as Associate
 Editor for the International Studies section of _Frontiers in Political
 Science_ and as a member of the International Editorial Board of _Mercados y
 Negocios_, and I have led a special issue of _Discover Global Society_ as
