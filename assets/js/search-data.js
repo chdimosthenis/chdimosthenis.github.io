@@ -188,6 +188,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-deliver-two-training-modules-on-business-strategy-for-advanced-air-mobility-at-the-main-training-event-of-the-horizon-europe-excellence-hub-eusome-institute-mihajlo-pupin-belgrade-19-november-2026-market-analysis-and-anticipated-customers-and-business-and-industry-insights-for-cyprus-invited-by-the-cyprus-chamber-of-commerce-and-industry-project-site",
           title: 'Invited to deliver two training modules on business strategy for advanced air mobility...',
           description: "",
+          section: "News",},{id: "news-new-paper-published-online-in-perspectives-on-global-development-and-technology-brill-advancing-international-political-economy-the-evolutionary-structural-triptych-and-the-global-competitiveness-web-with-charis-vlados-advance-article-scopus-q3-wos-if-0-4-doi",
+          title: 'New paper published online in Perspectives on Global Development and Technology (Brill): Advancing...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
